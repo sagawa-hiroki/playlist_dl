@@ -10,7 +10,7 @@
 ### 2. youtube_dlインストール
 
 - [youtube_dl download](https://ytdl-org.github.io/youtube-dl/download.html)
-  - Mac だったら `brew install youtube_dl` でいけます
+  - Mac だったら `brew install youtube-dl` でいけます
 
 ### 3. playlist_dl.txtを作成
 - `playlist_dl.txt` (名前は変更可能) を任意の場所に設置
