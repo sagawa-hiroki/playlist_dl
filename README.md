@@ -7,9 +7,9 @@
 ### 1. YouTubeに登録、プレイリスト作成
 - [YouTube](https://youtube.com)
 
-### 2. youtube_dlインストール
+### 2. youtube-dlインストール
 
-- [youtube_dl download](https://ytdl-org.github.io/youtube-dl/download.html)
+- [youtube-dl download](https://ytdl-org.github.io/youtube-dl/download.html)
   - Mac だったら `brew install youtube-dl` でいけます
 
 ### 3. playlist_dl.txtを作成
